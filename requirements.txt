@@ -27,8 +27,9 @@ python-dotenv
 requests
 scipy
 six
+keras>=3.0.0
+tensorflow-cpu>=2.16.1
 tensorboard
-tensorflow-cpu
 termcolor
 urllib3
 Werkzeug
