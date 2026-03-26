@@ -8,7 +8,7 @@ import numpy as np
 
 
 classes = ["バロック", "印象派"]
-image_size = 224
+image_size = 100
 
 UPLOAD_FOLDER = "uploads"
 ALLOWED_EXTENSIONS = set(['png', 'jpg', 'jpeg', 'gif'])
